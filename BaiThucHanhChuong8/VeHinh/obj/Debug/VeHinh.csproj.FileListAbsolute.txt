@@ -1,0 +1,12 @@
+D:\C#\BaiThucHanhChuong8\VeHinh\bin\Debug\VeHinh.exe.config
+D:\C#\BaiThucHanhChuong8\VeHinh\bin\Debug\VeHinh.exe
+D:\C#\BaiThucHanhChuong8\VeHinh\bin\Debug\VeHinh.pdb
+D:\C#\BaiThucHanhChuong8\VeHinh\obj\Debug\VeHinh.csproj.AssemblyReference.cache
+D:\C#\BaiThucHanhChuong8\VeHinh\obj\Debug\VeHinh.csproj.SuggestedBindingRedirects.cache
+D:\C#\BaiThucHanhChuong8\VeHinh\obj\Debug\VeHinh.Form1.resources
+D:\C#\BaiThucHanhChuong8\VeHinh\obj\Debug\VeHinh.Options.resources
+D:\C#\BaiThucHanhChuong8\VeHinh\obj\Debug\VeHinh.Properties.Resources.resources
+D:\C#\BaiThucHanhChuong8\VeHinh\obj\Debug\VeHinh.csproj.GenerateResource.cache
+D:\C#\BaiThucHanhChuong8\VeHinh\obj\Debug\VeHinh.csproj.CoreCompileInputs.cache
+D:\C#\BaiThucHanhChuong8\VeHinh\obj\Debug\VeHinh.exe
+D:\C#\BaiThucHanhChuong8\VeHinh\obj\Debug\VeHinh.pdb

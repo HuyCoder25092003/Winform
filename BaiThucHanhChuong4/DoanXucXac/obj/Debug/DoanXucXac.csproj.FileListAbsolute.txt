@@ -1,0 +1,11 @@
+D:\C#\BaiThucHanhChuong4\DoanXucXac\bin\Debug\DoanXucXac.exe.config
+D:\C#\BaiThucHanhChuong4\DoanXucXac\bin\Debug\DoanXucXac.exe
+D:\C#\BaiThucHanhChuong4\DoanXucXac\bin\Debug\DoanXucXac.pdb
+D:\C#\BaiThucHanhChuong4\DoanXucXac\obj\Debug\DoanXucXac.csproj.AssemblyReference.cache
+D:\C#\BaiThucHanhChuong4\DoanXucXac\obj\Debug\DoanXucXac.csproj.SuggestedBindingRedirects.cache
+D:\C#\BaiThucHanhChuong4\DoanXucXac\obj\Debug\DoanXucXac.Form1.resources
+D:\C#\BaiThucHanhChuong4\DoanXucXac\obj\Debug\DoanXucXac.Properties.Resources.resources
+D:\C#\BaiThucHanhChuong4\DoanXucXac\obj\Debug\DoanXucXac.csproj.GenerateResource.cache
+D:\C#\BaiThucHanhChuong4\DoanXucXac\obj\Debug\DoanXucXac.csproj.CoreCompileInputs.cache
+D:\C#\BaiThucHanhChuong4\DoanXucXac\obj\Debug\DoanXucXac.exe
+D:\C#\BaiThucHanhChuong4\DoanXucXac\obj\Debug\DoanXucXac.pdb

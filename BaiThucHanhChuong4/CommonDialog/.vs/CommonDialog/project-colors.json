@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c68ebd58-362c-4b4f-bcb5-d87c19812e48": {
+      "ProjectGuid": "c68ebd58-362c-4b4f-bcb5-d87c19812e48",
+      "DisplayName": "CommonDialog",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

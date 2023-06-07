@@ -1,0 +1,11 @@
+D:\C#\BaiThucHanhChuong8\HinhTron\obj\Debug\HinhTron.csproj.AssemblyReference.cache
+D:\C#\BaiThucHanhChuong8\HinhTron\obj\Debug\HinhTron.csproj.SuggestedBindingRedirects.cache
+D:\C#\BaiThucHanhChuong8\HinhTron\obj\Debug\HinhTron.Form1.resources
+D:\C#\BaiThucHanhChuong8\HinhTron\obj\Debug\HinhTron.Properties.Resources.resources
+D:\C#\BaiThucHanhChuong8\HinhTron\obj\Debug\HinhTron.csproj.GenerateResource.cache
+D:\C#\BaiThucHanhChuong8\HinhTron\obj\Debug\HinhTron.csproj.CoreCompileInputs.cache
+D:\C#\BaiThucHanhChuong8\HinhTron\bin\Debug\HinhTron.exe.config
+D:\C#\BaiThucHanhChuong8\HinhTron\bin\Debug\HinhTron.exe
+D:\C#\BaiThucHanhChuong8\HinhTron\bin\Debug\HinhTron.pdb
+D:\C#\BaiThucHanhChuong8\HinhTron\obj\Debug\HinhTron.exe
+D:\C#\BaiThucHanhChuong8\HinhTron\obj\Debug\HinhTron.pdb

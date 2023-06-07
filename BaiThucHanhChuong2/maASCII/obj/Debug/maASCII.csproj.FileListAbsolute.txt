@@ -1,0 +1,11 @@
+D:\C#\BaiThucHanhChuong3\maASCII\bin\Debug\maASCII.exe.config
+D:\C#\BaiThucHanhChuong3\maASCII\bin\Debug\maASCII.exe
+D:\C#\BaiThucHanhChuong3\maASCII\bin\Debug\maASCII.pdb
+D:\C#\BaiThucHanhChuong3\maASCII\obj\Debug\maASCII.csproj.AssemblyReference.cache
+D:\C#\BaiThucHanhChuong3\maASCII\obj\Debug\maASCII.csproj.SuggestedBindingRedirects.cache
+D:\C#\BaiThucHanhChuong3\maASCII\obj\Debug\maASCII.Form1.resources
+D:\C#\BaiThucHanhChuong3\maASCII\obj\Debug\maASCII.Properties.Resources.resources
+D:\C#\BaiThucHanhChuong3\maASCII\obj\Debug\maASCII.csproj.GenerateResource.cache
+D:\C#\BaiThucHanhChuong3\maASCII\obj\Debug\maASCII.csproj.CoreCompileInputs.cache
+D:\C#\BaiThucHanhChuong3\maASCII\obj\Debug\maASCII.exe
+D:\C#\BaiThucHanhChuong3\maASCII\obj\Debug\maASCII.pdb

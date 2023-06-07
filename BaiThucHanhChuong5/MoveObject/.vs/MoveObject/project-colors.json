@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f1813a47-07f0-444e-ba7d-ea198622a22e": {
+      "ProjectGuid": "f1813a47-07f0-444e-ba7d-ea198622a22e",
+      "DisplayName": "MoveObject",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

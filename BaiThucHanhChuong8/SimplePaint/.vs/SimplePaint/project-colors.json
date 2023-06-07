@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "592bd37f-11be-4d69-928b-df3bf15796f2": {
+      "ProjectGuid": "592bd37f-11be-4d69-928b-df3bf15796f2",
+      "DisplayName": "SimplePaint",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

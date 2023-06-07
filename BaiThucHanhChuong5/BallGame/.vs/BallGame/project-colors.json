@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8c1ec861-7e56-4ae3-8f75-943b033cadbd": {
+      "ProjectGuid": "8c1ec861-7e56-4ae3-8f75-943b033cadbd",
+      "DisplayName": "BallGame",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,12 @@
+C:\Users\Phuc\OneDrive\Máy tính\WindowsFormsApp1\DeThi\bin\Debug\DeThi.exe.config
+C:\Users\Phuc\OneDrive\Máy tính\WindowsFormsApp1\DeThi\bin\Debug\DeThi.exe
+C:\Users\Phuc\OneDrive\Máy tính\WindowsFormsApp1\DeThi\bin\Debug\DeThi.pdb
+C:\Users\Phuc\OneDrive\Máy tính\WindowsFormsApp1\DeThi\obj\Debug\DeThi.csproj.AssemblyReference.cache
+C:\Users\Phuc\OneDrive\Máy tính\WindowsFormsApp1\DeThi\obj\Debug\DeThi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Phuc\OneDrive\Máy tính\WindowsFormsApp1\DeThi\obj\Debug\DeThi.Form1.resources
+C:\Users\Phuc\OneDrive\Máy tính\WindowsFormsApp1\DeThi\obj\Debug\DeThi.Properties.Resources.resources
+C:\Users\Phuc\OneDrive\Máy tính\WindowsFormsApp1\DeThi\obj\Debug\DeThi.csproj.GenerateResource.cache
+C:\Users\Phuc\OneDrive\Máy tính\WindowsFormsApp1\DeThi\obj\Debug\DeThi.csproj.CoreCompileInputs.cache
+C:\Users\Phuc\OneDrive\Máy tính\WindowsFormsApp1\DeThi\obj\Debug\DeThi.exe
+C:\Users\Phuc\OneDrive\Máy tính\WindowsFormsApp1\DeThi\obj\Debug\DeThi.pdb
+C:\Users\Phuc\OneDrive\Máy tính\WindowsFormsApp1\DeThi\obj\Debug\DeThi.HinhAnh.resources

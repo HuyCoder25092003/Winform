@@ -1,0 +1,11 @@
+D:\C#\BaiThucHanhChuong3\TamGiac\bin\Debug\TamGiac.exe.config
+D:\C#\BaiThucHanhChuong3\TamGiac\bin\Debug\TamGiac.exe
+D:\C#\BaiThucHanhChuong3\TamGiac\bin\Debug\TamGiac.pdb
+D:\C#\BaiThucHanhChuong3\TamGiac\obj\Debug\TamGiac.csproj.AssemblyReference.cache
+D:\C#\BaiThucHanhChuong3\TamGiac\obj\Debug\TamGiac.csproj.SuggestedBindingRedirects.cache
+D:\C#\BaiThucHanhChuong3\TamGiac\obj\Debug\TamGiac.Form1.resources
+D:\C#\BaiThucHanhChuong3\TamGiac\obj\Debug\TamGiac.Properties.Resources.resources
+D:\C#\BaiThucHanhChuong3\TamGiac\obj\Debug\TamGiac.csproj.GenerateResource.cache
+D:\C#\BaiThucHanhChuong3\TamGiac\obj\Debug\TamGiac.csproj.CoreCompileInputs.cache
+D:\C#\BaiThucHanhChuong3\TamGiac\obj\Debug\TamGiac.exe
+D:\C#\BaiThucHanhChuong3\TamGiac\obj\Debug\TamGiac.pdb

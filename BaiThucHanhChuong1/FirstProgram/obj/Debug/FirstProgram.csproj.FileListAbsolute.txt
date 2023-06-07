@@ -1,0 +1,11 @@
+D:\C#\BaiThucHanhChuong1\FirstProgram\bin\Debug\FirstProgram.exe.config
+D:\C#\BaiThucHanhChuong1\FirstProgram\bin\Debug\FirstProgram.exe
+D:\C#\BaiThucHanhChuong1\FirstProgram\bin\Debug\FirstProgram.pdb
+D:\C#\BaiThucHanhChuong1\FirstProgram\obj\Debug\FirstProgram.csproj.AssemblyReference.cache
+D:\C#\BaiThucHanhChuong1\FirstProgram\obj\Debug\FirstProgram.csproj.SuggestedBindingRedirects.cache
+D:\C#\BaiThucHanhChuong1\FirstProgram\obj\Debug\FirstProgram.Form1.resources
+D:\C#\BaiThucHanhChuong1\FirstProgram\obj\Debug\FirstProgram.Properties.Resources.resources
+D:\C#\BaiThucHanhChuong1\FirstProgram\obj\Debug\FirstProgram.csproj.GenerateResource.cache
+D:\C#\BaiThucHanhChuong1\FirstProgram\obj\Debug\FirstProgram.csproj.CoreCompileInputs.cache
+D:\C#\BaiThucHanhChuong1\FirstProgram\obj\Debug\FirstProgram.exe
+D:\C#\BaiThucHanhChuong1\FirstProgram\obj\Debug\FirstProgram.pdb

@@ -1,0 +1,9 @@
+D:\Huy\PhotoAlbum\PhotoAlbum\bin\Debug\PhotoAlbum.exe.config
+D:\Huy\PhotoAlbum\PhotoAlbum\bin\Debug\PhotoAlbum.exe
+D:\Huy\PhotoAlbum\PhotoAlbum\bin\Debug\PhotoAlbum.pdb
+D:\Huy\PhotoAlbum\PhotoAlbum\obj\Debug\PhotoAlbum.csprojResolveAssemblyReference.cache
+D:\Huy\PhotoAlbum\PhotoAlbum\obj\Debug\PhotoAlbum.Form1.resources
+D:\Huy\PhotoAlbum\PhotoAlbum\obj\Debug\PhotoAlbum.Properties.Resources.resources
+D:\Huy\PhotoAlbum\PhotoAlbum\obj\Debug\PhotoAlbum.csproj.GenerateResource.Cache
+D:\Huy\PhotoAlbum\PhotoAlbum\obj\Debug\PhotoAlbum.exe
+D:\Huy\PhotoAlbum\PhotoAlbum\obj\Debug\PhotoAlbum.pdb

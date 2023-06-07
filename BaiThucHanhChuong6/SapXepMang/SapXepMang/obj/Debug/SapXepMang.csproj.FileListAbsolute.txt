@@ -1,0 +1,9 @@
+D:\Huy\SapXepMang\SapXepMang\bin\Debug\SapXepMang.exe.config
+D:\Huy\SapXepMang\SapXepMang\bin\Debug\SapXepMang.exe
+D:\Huy\SapXepMang\SapXepMang\bin\Debug\SapXepMang.pdb
+D:\Huy\SapXepMang\SapXepMang\obj\Debug\SapXepMang.csprojResolveAssemblyReference.cache
+D:\Huy\SapXepMang\SapXepMang\obj\Debug\SapXepMang.Form1.resources
+D:\Huy\SapXepMang\SapXepMang\obj\Debug\SapXepMang.Properties.Resources.resources
+D:\Huy\SapXepMang\SapXepMang\obj\Debug\SapXepMang.csproj.GenerateResource.Cache
+D:\Huy\SapXepMang\SapXepMang\obj\Debug\SapXepMang.exe
+D:\Huy\SapXepMang\SapXepMang\obj\Debug\SapXepMang.pdb

@@ -1,0 +1,11 @@
+D:\C#\BaiThucHanhChuong3\HieuChinhPhanSo\obj\Debug\HieuChinhPhanSo.csproj.AssemblyReference.cache
+D:\C#\BaiThucHanhChuong3\HieuChinhPhanSo\obj\Debug\HieuChinhPhanSo.csproj.SuggestedBindingRedirects.cache
+D:\C#\BaiThucHanhChuong3\HieuChinhPhanSo\obj\Debug\HieuChinhPhanSo.Form1.resources
+D:\C#\BaiThucHanhChuong3\HieuChinhPhanSo\obj\Debug\HieuChinhPhanSo.Properties.Resources.resources
+D:\C#\BaiThucHanhChuong3\HieuChinhPhanSo\obj\Debug\HieuChinhPhanSo.csproj.GenerateResource.cache
+D:\C#\BaiThucHanhChuong3\HieuChinhPhanSo\obj\Debug\HieuChinhPhanSo.csproj.CoreCompileInputs.cache
+D:\C#\BaiThucHanhChuong3\HieuChinhPhanSo\bin\Debug\HieuChinhPhanSo.exe.config
+D:\C#\BaiThucHanhChuong3\HieuChinhPhanSo\bin\Debug\HieuChinhPhanSo.exe
+D:\C#\BaiThucHanhChuong3\HieuChinhPhanSo\bin\Debug\HieuChinhPhanSo.pdb
+D:\C#\BaiThucHanhChuong3\HieuChinhPhanSo\obj\Debug\HieuChinhPhanSo.exe
+D:\C#\BaiThucHanhChuong3\HieuChinhPhanSo\obj\Debug\HieuChinhPhanSo.pdb

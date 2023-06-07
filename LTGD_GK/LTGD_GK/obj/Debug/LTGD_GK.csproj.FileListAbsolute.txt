@@ -1,0 +1,26 @@
+C:\Users\HI HAU\OneDrive\Máy tính\LTGD\LTGD_GK\LTGD_GK\bin\Debug\LTGD_GK.exe.config
+C:\Users\HI HAU\OneDrive\Máy tính\LTGD\LTGD_GK\LTGD_GK\bin\Debug\LTGD_GK.exe
+C:\Users\HI HAU\OneDrive\Máy tính\LTGD\LTGD_GK\LTGD_GK\bin\Debug\LTGD_GK.pdb
+C:\Users\HI HAU\OneDrive\Máy tính\LTGD\LTGD_GK\LTGD_GK\obj\Debug\LTGD_GK.csproj.AssemblyReference.cache
+C:\Users\HI HAU\OneDrive\Máy tính\LTGD\LTGD_GK\LTGD_GK\obj\Debug\LTGD_GK.csproj.SuggestedBindingRedirects.cache
+C:\Users\HI HAU\OneDrive\Máy tính\LTGD\LTGD_GK\LTGD_GK\obj\Debug\LTGD_GK.Form_Main.resources
+C:\Users\HI HAU\OneDrive\Máy tính\LTGD\LTGD_GK\LTGD_GK\obj\Debug\LTGD_GK.Form_Ve.resources
+C:\Users\HI HAU\OneDrive\Máy tính\LTGD\LTGD_GK\LTGD_GK\obj\Debug\LTGD_GK.Form_XuLyChuoi.resources
+C:\Users\HI HAU\OneDrive\Máy tính\LTGD\LTGD_GK\LTGD_GK\obj\Debug\LTGD_GK.Properties.Resources.resources
+C:\Users\HI HAU\OneDrive\Máy tính\LTGD\LTGD_GK\LTGD_GK\obj\Debug\LTGD_GK.csproj.GenerateResource.cache
+C:\Users\HI HAU\OneDrive\Máy tính\LTGD\LTGD_GK\LTGD_GK\obj\Debug\LTGD_GK.csproj.CoreCompileInputs.cache
+C:\Users\HI HAU\OneDrive\Máy tính\LTGD\LTGD_GK\LTGD_GK\obj\Debug\LTGD_GK.exe
+C:\Users\HI HAU\OneDrive\Máy tính\LTGD\LTGD_GK\LTGD_GK\obj\Debug\LTGD_GK.pdb
+C:\Users\ACER\Downloads\LTGD_GK\LTGD_GK\bin\Debug\LTGD_GK.exe.config
+C:\Users\ACER\Downloads\LTGD_GK\LTGD_GK\bin\Debug\LTGD_GK.exe
+C:\Users\ACER\Downloads\LTGD_GK\LTGD_GK\bin\Debug\LTGD_GK.pdb
+C:\Users\ACER\Downloads\LTGD_GK\LTGD_GK\obj\Debug\LTGD_GK.csproj.AssemblyReference.cache
+C:\Users\ACER\Downloads\LTGD_GK\LTGD_GK\obj\Debug\LTGD_GK.csproj.SuggestedBindingRedirects.cache
+C:\Users\ACER\Downloads\LTGD_GK\LTGD_GK\obj\Debug\LTGD_GK.Form_Main.resources
+C:\Users\ACER\Downloads\LTGD_GK\LTGD_GK\obj\Debug\LTGD_GK.Form_Ve.resources
+C:\Users\ACER\Downloads\LTGD_GK\LTGD_GK\obj\Debug\LTGD_GK.Form_XuLyChuoi.resources
+C:\Users\ACER\Downloads\LTGD_GK\LTGD_GK\obj\Debug\LTGD_GK.Properties.Resources.resources
+C:\Users\ACER\Downloads\LTGD_GK\LTGD_GK\obj\Debug\LTGD_GK.csproj.GenerateResource.cache
+C:\Users\ACER\Downloads\LTGD_GK\LTGD_GK\obj\Debug\LTGD_GK.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Downloads\LTGD_GK\LTGD_GK\obj\Debug\LTGD_GK.exe
+C:\Users\ACER\Downloads\LTGD_GK\LTGD_GK\obj\Debug\LTGD_GK.pdb

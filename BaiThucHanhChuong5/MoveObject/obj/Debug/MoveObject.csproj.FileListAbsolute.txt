@@ -1,0 +1,11 @@
+D:\C#\BaiThucHanhChuong5\MoveObject\bin\Debug\MoveObject.exe.config
+D:\C#\BaiThucHanhChuong5\MoveObject\bin\Debug\MoveObject.exe
+D:\C#\BaiThucHanhChuong5\MoveObject\bin\Debug\MoveObject.pdb
+D:\C#\BaiThucHanhChuong5\MoveObject\obj\Debug\MoveObject.csproj.AssemblyReference.cache
+D:\C#\BaiThucHanhChuong5\MoveObject\obj\Debug\MoveObject.csproj.SuggestedBindingRedirects.cache
+D:\C#\BaiThucHanhChuong5\MoveObject\obj\Debug\MoveObject.Form1.resources
+D:\C#\BaiThucHanhChuong5\MoveObject\obj\Debug\MoveObject.Properties.Resources.resources
+D:\C#\BaiThucHanhChuong5\MoveObject\obj\Debug\MoveObject.csproj.GenerateResource.cache
+D:\C#\BaiThucHanhChuong5\MoveObject\obj\Debug\MoveObject.csproj.CoreCompileInputs.cache
+D:\C#\BaiThucHanhChuong5\MoveObject\obj\Debug\MoveObject.exe
+D:\C#\BaiThucHanhChuong5\MoveObject\obj\Debug\MoveObject.pdb

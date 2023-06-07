@@ -1,0 +1,9 @@
+D:\Huy\XuLyChuoi\XuLyChuoi\bin\Debug\XuLyChuoi.exe.config
+D:\Huy\XuLyChuoi\XuLyChuoi\bin\Debug\XuLyChuoi.exe
+D:\Huy\XuLyChuoi\XuLyChuoi\bin\Debug\XuLyChuoi.pdb
+D:\Huy\XuLyChuoi\XuLyChuoi\obj\Debug\XuLyChuoi.csprojResolveAssemblyReference.cache
+D:\Huy\XuLyChuoi\XuLyChuoi\obj\Debug\XuLyChuoi.Form1.resources
+D:\Huy\XuLyChuoi\XuLyChuoi\obj\Debug\XuLyChuoi.Properties.Resources.resources
+D:\Huy\XuLyChuoi\XuLyChuoi\obj\Debug\XuLyChuoi.csproj.GenerateResource.Cache
+D:\Huy\XuLyChuoi\XuLyChuoi\obj\Debug\XuLyChuoi.exe
+D:\Huy\XuLyChuoi\XuLyChuoi\obj\Debug\XuLyChuoi.pdb

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b0a71a4d-0a8a-4349-896a-69587aebfd71": {
+      "ProjectGuid": "b0a71a4d-0a8a-4349-896a-69587aebfd71",
+      "DisplayName": "MyPhoto",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

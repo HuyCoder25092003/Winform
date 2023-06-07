@@ -1,0 +1,14 @@
+D:\C#\BaiThucHanhChuong8\SimplePaint\bin\Debug\SimplePaint.exe.config
+D:\C#\BaiThucHanhChuong8\SimplePaint\bin\Debug\SimplePaint.exe
+D:\C#\BaiThucHanhChuong8\SimplePaint\bin\Debug\SimplePaint.pdb
+D:\C#\BaiThucHanhChuong8\SimplePaint\obj\Debug\SimplePaint.csproj.AssemblyReference.cache
+D:\C#\BaiThucHanhChuong8\SimplePaint\obj\Debug\SimplePaint.csproj.SuggestedBindingRedirects.cache
+D:\C#\BaiThucHanhChuong8\SimplePaint\obj\Debug\SimplePaint.FrmMain.resources
+D:\C#\BaiThucHanhChuong8\SimplePaint\obj\Debug\SimplePaint.Properties.Resources.resources
+D:\C#\BaiThucHanhChuong8\SimplePaint\obj\Debug\SimplePaint.csproj.GenerateResource.cache
+D:\C#\BaiThucHanhChuong8\SimplePaint\obj\Debug\SimplePaint.csproj.CoreCompileInputs.cache
+D:\C#\BaiThucHanhChuong8\SimplePaint\obj\Debug\SimplePaint.exe
+D:\C#\BaiThucHanhChuong8\SimplePaint\obj\Debug\SimplePaint.pdb
+D:\C#\BaiThucHanhChuong8\SimplePaint\obj\Debug\SimplePaint.FrmDrawText.resources
+D:\C#\BaiThucHanhChuong8\SimplePaint\obj\Debug\SimplePaint.FrmDwamImage.resources
+D:\C#\BaiThucHanhChuong8\SimplePaint\obj\Debug\SimplePaint.FrmDrawByMouse.resources
